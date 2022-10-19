@@ -143,7 +143,7 @@ A yearly timeline progress of the project, we will update this regularly along w
 </tr>
 <tr>
 <td>Coin Maturity</td>
-<td>25 Blocks</td>
+<td>10 Blocks</td>
 </tr>
 <tr>
 <td>Port</td>
