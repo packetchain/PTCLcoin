@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="de">locale/ptclcoin_de.qm</file>
+        <file alias="en">locale/ptclcoin_en.qm</file>
+        <file alias="en_US">locale/ptclcoin_en_US.qm</file>
+        <file alias="es">locale/ptclcoin_es.qm</file>
+        <file alias="es_ES">locale/ptclcoin_es_ES.qm</file>
+        <file alias="fr_FR">locale/ptclcoin_fr_FR.qm</file>
+        <file alias="hr_HR">locale/ptclcoin_hr_HR.qm</file>
+        <file alias="it">locale/ptclcoin_it.qm</file>
+        <file alias="ko_KR">locale/ptclcoin_ko_KR.qm</file>
+        <file alias="nl">locale/ptclcoin_nl.qm</file>
+        <file alias="pl">locale/ptclcoin_pl.qm</file>
+        <file alias="ru">locale/ptclcoin_ru.qm</file>
+        <file alias="tr">locale/ptclcoin_tr.qm</file>
+        <file alias="zh_CN">locale/ptclcoin_zh_CN.qm</file>
+    </qresource>
+</RCC>

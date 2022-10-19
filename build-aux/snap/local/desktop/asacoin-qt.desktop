@@ -1,0 +1,15 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=PTCL Core
+Comment=PTCL Core QT main network
+GenericName=PTCL Digital Currency QT client main network
+Exec=ptclcoin-core.qt %u
+Terminal=false
+Type=Application
+Icon=${SNAP}/share/pixmaps/ptclcoin.png
+MimeType=x-scheme-handler/ptclcoin;
+Categories=X-Office;X-Finance;
+Keywords=internet;ptclcoin;bib;core;wallet;qt;main;snap;launchpad;crypto;digital;currency;coin;token;
+Version=1.0

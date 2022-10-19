@@ -1,0 +1,15 @@
+QT_TS = \
+  qt/locale/ptclcoin_de.ts \
+  qt/locale/ptclcoin_en.ts \
+  qt/locale/ptclcoin_en_US.ts \
+  qt/locale/ptclcoin_es.ts \
+  qt/locale/ptclcoin_es_ES.ts \
+  qt/locale/ptclcoin_fr_FR.ts \
+  qt/locale/ptclcoin_hr_HR.ts \
+  qt/locale/ptclcoin_it.ts \
+  qt/locale/ptclcoin_ko_KR.ts \
+  qt/locale/ptclcoin_nl.ts \
+  qt/locale/ptclcoin_pl.ts \
+  qt/locale/ptclcoin_ru.ts \
+  qt/locale/ptclcoin_tr.ts \
+  qt/locale/ptclcoin_zh_CN.ts

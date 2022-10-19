@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=PTCL 
+Comment=PTCL P2P Cryptocurrency
+Comment[fr]=PTCL, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=PTCL, eşten eşe kriptografik sanal para birimi
+Exec=ptclcoin-qt %u
+Terminal=false
+Type=Application
+Icon=ptclcoin128
+MimeType=x-scheme-handler/ptclcoin;
+Categories=Office;Finance;
+StartupWMClass=ptclcoin-qt
