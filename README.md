@@ -82,10 +82,10 @@ A yearly timeline progress of the project, we will update this regularly along w
     <h4>OCT - DEC 2022</h4>
     <ul>
       <li><a>[] Masternodes Presale(few on sales)</a></li>
-      <li><a>[] Listing on 2 exchanges</a></li>
+      <li><a>[x] Listing on Exchange (Graviex Pending - on process)</a></li>
       <li><a>[] Listing on Masternode Statistics</a></li>
       <li><a>[] Increase Project Awareness</a></li>
-      <li><a>[] Listing to Masternode Shares/Hosting</a></li>
+      <li><a>[x] Listing to Masternode Shares/Hosting(ihostmn,nodestats,pecunia)</a></li>
       <li><a>[] Platform Development Initializations</a></li>
     </ul>
   </li>
