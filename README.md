@@ -13,6 +13,8 @@
     <br />
     <a href="https://packetchain.io">WEBSITE</a>
     ·
+    <a href="https://graviex.net/markets/ptclbtc">EXCHANGE</a>
+    ·
     <a href="https://discord.gg/E5v2Ju3Szd">DISCORD</a>
     ·
     <a href="https://github.com/packetchain/PTCLcoin/releases">RELEASES</a>
@@ -81,11 +83,11 @@ A yearly timeline progress of the project, we will update this regularly along w
   <li>
     <h4>OCT - DEC 2022</h4>
     <ul>
-      <li><a>[] Masternodes Presale(few on sales)</a></li>
-      <li><a>[x] Listing on Exchange (Graviex Pending - on process)</a></li>
-      <li><a>[] Listing on Masternode Statistics</a></li>
-      <li><a>[] Increase Project Awareness</a></li>
-      <li><a>[x] Listing to Masternode Shares/Hosting(ihostmn,nodestats,pecunia)</a></li>
+      <li><a>[x] Masternodes Presale(completed)</a></li>
+      <li><a>[x] Listing on Exchange (completed)</a></li>
+      <li><a>[x] Listing on Masternode Statistics(completed)</a></li>
+      <li><a>[x] Increase Project Awareness(Marketing in progress)</a></li>
+      <li><a>[x] Listing to Masternode Shares/Hosting(completed)</a></li>
       <li><a>[] Platform Development Initializations</a></li>
     </ul>
   </li>
